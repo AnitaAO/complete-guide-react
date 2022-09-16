@@ -51,4 +51,12 @@
         font-size: 1.25rem;
         padding: 0.5rem 1.5rem;
     }
+    .btn-expense-item{
+        margin-left: 1rem;
+        padding: 0.5rem 1rem;
+        border: 1px solid purple;
+        border-radius: 0.5rem;
+        color: white;
+        background-color: black;
+    }
 }
